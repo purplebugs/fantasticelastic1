@@ -1,0 +1,40 @@
+# Purpose of this book
+
+
+The purpose of this book is to walk myself and any others who want to join my journey through a fun idea of creating gorgeous and simple visualisations of data.
+
+I want to use I love, Kibana, around a topic I find interesting which has easy access to data online, the Eurovision Song Contest, because it is motivating to start with things that make me feel warm and fuzzy, without any pressure.
+
+I hope you will be able to follow along, and want to learn using Kibana for making visualisations for any of your own data.
+
+Venn diagram:
+Loves Eurovision Song Contest + Loves Kibana + Probably not so many in the middle
+
+Replace ESC with [insert your hobby project, eg ...]
+Replace Kibana with [awesome tool for data visualisations] then it might excite you more.  Although, essentially this book is about Kibana, and I don’t plan to follow up with any other tools in the near future.
+
+Also, it is just so fun to be able to understand, digest and create such visualisations in seconds... once everything is setup and being maintained nicely.  Because nothing really takes just seconds, it just feels like it once the setup is all done!
+
+## Some background:
+I noticed [some other data visualisation tools dashboard] thrown into a demo by a dev at the last minute: it was ugly, clunky, and did not capture the value of our software.  They lost the deal.  I believe if they were to incorporate Kibana dashboards in demos, they would close more deals, delight, and inspire more sales.  Yes, I believe Elastic solves not only data but business problems.  This “aha moment” is why I want become an Elastic Certified Engineer, and figured writing a book was a good way to throw myself into the fray of just using stuff, while waiting for the next round of classes for the certificaton to begin
+
+## When I first heard of Kibana, and what is solved for me
+I am a QA (Quality Assurance) Engineer, or a Software Test Automation Engineer in QA which is in the software testing domain.  I first was exposed to Kibana when our team switched from Waterfall (think two big, complex software releases per year) to Agile (think lots of small releases, constantly, in an automated way as possible).  This switch made us have to become more responsible for “seeing inside” the software: when might the system soon crash? Were the users generating many more errors in the hour following the release than usual, and if so why? And so on.  Kibana was chosen, and boom... we were up and running, with the usual setup hiccups that a large scale software project entails. Nevertheless, I was fortunate enough to only have to care about the details, which meant that soon I realised I could answer questions such as: What percentage of our customers were using IE8, as opposed to Chrome? How many customers were from the same company, or timezone?  Knowing the answers to these questions, in real time, allowed me to see risk more easily.  For example, if I discovered a bug that was only in IE8, and not in Chrome, yet only 5% of our users were using IE8, and it was an area of the software not widely used, and there was a workaround, we did not have to hold of the release for that, but could fix it for the next release, usually withing a few days.
+
+
+
+
+# Who this book is for
+
+If you would like to learn how to make fun and informative visualisations of data, even if you have never heard of Kibana before, and even if you have no data, then this is book is for you.
+
+If you are comfortable with using computers and learning new things, and making some mistakes here and there, problem solving, then getting back into it, you will be fine.
+
+If you have used source control tools before, and if you worked with data before, and if you have installed software of any kind before, you will be pretty comfortable.
+
+If you don’t like computers, or reading, or trying out new things, this is not for you.
+
+
+## How to give feedback
+
+You can contact me on LinkedIn, via my email address listed on the About page on my blog www.purplebugs.com, or by commenting on this book using LeanPub.  All feedback is appreciated.

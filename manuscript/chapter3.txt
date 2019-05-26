@@ -1,0 +1,24 @@
+# Getting started with Phase Two
+
+
+[ TODO ]
+
+
+## Import this data file to Kibana
+
+[ TODO ]
+
+
+ 
+## Create some visualisations
+
+[ TODO ]
+
+## Data enhancements
+
+[ TODO ]
+
+## Summary
+
+[ TODO ]
+

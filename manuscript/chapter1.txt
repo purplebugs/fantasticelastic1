@@ -1,0 +1,47 @@
+# How I will do this project
+
+
+[ TODO ]
+
+
+## The three phases
+
+[ TODO ]
+
+
+## Phase One
+
+- Create a raw data file
+
+    ... perhaps in a google drive spreadsheet that can be exported as a .csv file, for the past 10 years of Eurovision winners. Do some copy/paste manually from sites such as Wikipedia, if I am not able to find some database with this already. Don't try to make a data scraper or automate this, at this stage
+store this in source control, eg github
+
+
+- Install elastic locally on my computer
+
+    ...at home, and on my laptop, depending on where I am working from. Do not try to create a docker image or store this in source control at this point
+
+## Phase Two
+
+- Import this data file to Kibana
+ 
+- Create some visualisations
+
+- I will probably want to do some data enhancements at this point, such as adding more data, or converting the .csv to SQL or a more viable database solution
+
+## Phase Three
+
+- Dockerise the whole project
+
+    ...using inspiration from https://github.com/htmevik/elastic-gcdit which was a great initiative and probably the most fun workshop I have attended. Thank you Girls Can Do IT, Oslo!
+
+    ...in order to have a package that can be stored in the cloud, and thus used and run by anyone.
+
+## Will blog, write book, and do at the same time
+
+I will probably change things as I go, based on your feedback, my learnings, and anything else that pops up.  However the overall goal will remain the same: make fab dashboards of Eurovision data, using Kibana, in a simple and timely manner, while having fun!
+
+
+## Summary
+
+[ TODO ]

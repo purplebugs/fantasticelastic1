@@ -1,0 +1,25 @@
+# Getting started with Phase Three
+
+
+[ TODO ]
+
+
+## Dockerise the whole project
+
+[ TODO ]
+
+
+## Now I want the world to see this
+
+Now that these gorgeous dashboards have been created, what should I do with them?
+
+Did you know that the dashboard can be incorporated into any software project?
+
+For example, a website or an app would be a great way to share this info with Eurovision fans
+
+Let's take a look at this in the next chapter
+
+
+## Summary
+
+[ TODO ]
