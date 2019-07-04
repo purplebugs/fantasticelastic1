@@ -1,7 +1,7 @@
 #!/bin/bash
 
-#Usage - To install Elasticsearch, Kibana and then import data using docker on your local machine, run:
-# ./setup-elastic-kibana-data.sh
+#Usage - To install Elasticsearch and Kibana using docker on your local machine, run:
+# ./setup-elastic-kibana.sh
 
 #TODO Add robustness eg: to fail fast if Docker not installed
 
