@@ -1,0 +1,20 @@
+{"index":{"_id":"1"}}
+{"year": "2019-05-18","country": "Netherlands", "song": "Arcade", "performer": "Duncan Laurence", "language": "English" }
+{"index":{"_id":"2"}}
+{"year":"2018-05-12","country":"Israel","song":"Toy","performer":"Netta","language":"English"}
+{ "index" : { "_id" : "3" } }
+{"year":"2017-05-13","country":"Portugal","song":"Amar pelos dois","performer":"Salvador Sobral","language":"Portugese"}
+{ "index" : { "_id" : "4" } }
+{"year":"2016-05-14","country":"Ukraine","song":1944,"performer":"Jamala","language":"English"}
+{ "index" : { "_id" : "5" } }
+{"year":"2015-05-23","country":"Sweden","song":"Heroes","performer":"Måns Zelmerlöw","language":"English"}
+{ "index" : { "_id" : "6" } }
+{"year":"2014-05-10","country":"Austria","song":"Rise Like a Phoenix","performer":"Conchita Wurst","language":"English"}
+{ "index" : { "_id" : "7" } }
+{"year":"2013-05-18","country":"Denmark","song":"Only Teardrops","performer":"Emmelie de Forest","language":"English"}
+{ "index" : { "_id" : "8" } }
+{"year":"2012-05-26","country":"Sweden","song":"Eurphoria","performer":"Loreen","language":"English"}
+{ "index" : { "_id" : "9" } }
+{"year":"2011-05-14","country":"Azerbaijan","song":"Running Scared","performer":"Ell & Nikki","language":"English"}
+{ "index" : { "_id" : "10" } }
+{"year":"2010-05-29","country":"Germany","song":"Satellite","performer":"Lena","language":"English"}
