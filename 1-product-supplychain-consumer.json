@@ -1,4 +1,21 @@
 {"index":{"_id":"1"}}
-{"product":"Cola", "size": "1L", "package": "can", "manufacturing-date":"2019-05-18", "best-before-date":"2020-05-18", "production-location": "Houston", "warehouse":"Houston", "retail":"Oslo", "consumer id": "22", "age": "55", "gender": "F", "device":"Samsung", "scan-location": "Brisbane, Australia"}
+{"product":"Cola", "size": "1L", "package": "plastic", "manufacturing-date":"2019-05-18", "best-before-date":"2020-05-18", "production-location": "Houston", "warehouse":"Houston", "retail":"Oslo", "consumer id": "22", "age": "55", "gender": "F", "device":"Samsung", "scan-location": "Brisbane, Australia"}
 {"index":{"_id":"2"}}
-{"product":"Cola", "size": "500 ml", "package": "plastic", "manufacturing-date":"2018-02-29", "best-before-date":"2021-02-29", "production-location": "Mexico City", "warehouse":"London", "retail":"New York", "consumer id": "4", "age": "19", "gender": "M", "device":"Samsung", "scan-location": "Singapore"}
+{"product":"Cola", "size": "500 ml", "package": "plastic", "manufacturing-date":"2018-02-29", "best-before-date":"2021-02-29", "production-location": "Mexico City", "warehouse":"London", "retail":"New York", "consumer id": "4", "age": "19", "gender": "M", "device":"Samsung", "scan-location": "New Jersey"}
+{"index":{"_id":"3"}}
+{"product":"Cola", "size": "500 ml", "package": "plastic", "manufacturing-date":"2018-03-10", "best-before-date":"2021-03-10", "production-location": "Mexico City", "warehouse":"London", "retail":"New York", "consumer id": "14", "age": "59", "gender": "F", "device":"iPhone", "scan-location": "Boston"}
+{"index":{"_id":"4"}}
+{"product":"Cola", "size": "500 ml", "package": "plastic", "manufacturing-date":"2018-03-10", "best-before-date":"2021-03-10", "production-location": "Mexico City", "warehouse":"London", "retail":"New York", "consumer id": "454", "age": "59", "gender": "F", "device":"iPhone", "scan-location": "New York"}
+{"index":{"_id":"5"}}
+{"product":"Cola", "size": "500 ml", "package": "can", "manufacturing-date":"2019-01-05", "best-before-date":"2020-01-05", "production-location": "Mexico City", "warehouse":"London", "retail":"New York", "consumer id": "64", "age": "20", "gender": "M", "device":"iPhone", "scan-location": "New York"}
+{"index":{"_id":"6"}}
+{"product":"Fruit Juice", "size": "500 ml", "package": "can", "manufacturing-date":"2019-01-05", "best-before-date":"2020-01-05", "production-location": "Mexico City", "warehouse":"London", "retail":"New York", "consumer id": "94", "age": "50", "gender": "M", "device":"Samsung", "scan-location": "New York"}
+{"index":{"_id":"7"}}
+{"product":"Fruit Juice", "size": "500 ml", "package": "can", "manufacturing-date":"2019-01-05", "best-before-date":"2020-01-05", "production-location": "Mexico City", "warehouse":"Singapore", "retail":"Singapore", "consumer id": "164", "age": "50", "gender": "M", "device":"Samsung", "scan-location": "Singapore"}
+{"index":{"_id":"8"}}
+{"product":"Fruit Juice", "size": "1L", "package": "plastic", "manufacturing-date":"2019-04-18", "best-before-date":"2020-04-18", "production-location": "Houston", "warehouse":"Singapore", "retail":"Sydney", "consumer id": "222", "age": "55", "gender": "M", "device":"iPhone", "scan-location": "Sydney"}
+{"index":{"_id":"9"}}
+{"product":"Fruit Juice", "size": "1L", "package": "plastic", "manufacturing-date":"2018-10-18", "best-before-date":"2021-10-18", "production-location": "Houston", "warehouse":"Singapore", "retail":"Sydney", "consumer id": "522", "age": "35", "gender": "M", "device":"iPhone", "scan-location": "Sydney"}
+{"index":{"_id":"9"}}
+{"product":"Fruit Juice", "size": "500 ml", "package": "can", "manufacturing-date":"2018-10-18", "best-before-date":"2021-10-18", "production-location": "Houston", "warehouse":"Singapore", "retail":"Sydney", "consumer id": "52", "age": "30", "gender": "F", "device":"iPhone", "scan-location": "Singapore"}
+
