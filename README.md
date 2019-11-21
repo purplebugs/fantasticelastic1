@@ -7,4 +7,4 @@ Level: Beginner -- My Journey to Visualise Eurovision winners using Kibana dashb
 
 ### View and download the book
 The book can be found at:
-- [Fantastic Elastic Book](https://leanpub.com/FantasticElastic/)
+- [Fantastic Elastic](https://leanpub.com/FantasticElastic/)
